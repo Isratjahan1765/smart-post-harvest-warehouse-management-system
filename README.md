@@ -32,8 +32,8 @@ Administrator, Warehouse Manager / Staff, Driver, Management / Report Viewer, Do
 | Name | Student ID | GitHub |
 |---|---|---|
 | Mst. Israt Jahan | 2230968 | Isratjahan1765 |
-| Fahrin Kabir Sehrin | 2211099 | |
-| Sadiyah Sultana Nishat | 2210020 | |
+| Fahrin Kabir Sehrin | 2211099 |Fahrin01 |
+| Sadiyah Sultana Nishat | 2210020 |Nishat314567 |
 | Bandhan Karmakar | 2111522 | |
 
 ## Supervisor
